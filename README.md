@@ -33,4 +33,5 @@ ADMIN - Your Telegram Id
 
 ```
 ### ⚜️ Owner
-Thakshaka Rathnayake
+Thakshaka Rathnayake - TeLe TiPs
+©️2021 TeLe TiPs All Rights Reserved
