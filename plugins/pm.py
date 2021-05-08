@@ -4,7 +4,7 @@ from pyrogram import Client, filters
 from presets import Presets
 
 if bool(os.environ.get("ENV", False)):
-    from sample_config import Config
+    from sampleconfig import Config
 else:
     from config import Config
 
