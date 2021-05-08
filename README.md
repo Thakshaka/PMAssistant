@@ -19,13 +19,13 @@ This bot will help you to manage all your PMs and keep clean your chat list.
 ### ⚜️ Command  List 
 
 ```
-# User Commmands
+🕹 User Commmands
 /start or /help
 
-# Admin Commmands
+🕹 Admin Commmands
 /info - Get details about stranger user
 
-#vars
+💡 CONFIG_VARS
 TG_BOT_TOKEN - Your Bot's Token
 APP_ID - Your APP ID
 API_HASH - Your API Hash
