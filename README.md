@@ -1,13 +1,13 @@
 # ⚜️ PM Assistant Bot
 Bot to manage your PMs as a personal assistant
-### ⚜️ HELP
+### ⚜️ WHAT CAN THIS BOT DO
 Is it a nuisance to receive messages from strangers? PM Assistant Bot is for you. 
 This bot will help you to manage all your PMs and keep clean your chat list.
-### Deploying on Heroku:
+### DEPLOY TO HEROKU
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Thakshaka/PMAssistantTeLeTiPs)
 
-### ⚜️ USAGE
+### ⚜️ HOW TO USE THIS BOT
 
 ```
 - Strangers can send anything (media, text messages) as usual to you via this bot.
@@ -17,7 +17,7 @@ This bot will help you to manage all your PMs and keep clean your chat list.
 - Send /info as a reply to any message you received from a stranger to get his or her details.
 ```
 
-### ⚜️ Command  List 
+### ⚜️ COMMANDS 
 
 ```
 🕹 User Commmands
@@ -27,7 +27,7 @@ This bot will help you to manage all your PMs and keep clean your chat list.
 /info - Get details about stranger user
 ```
 
-### ⚜️ Owner
+### ⚜️ OWNER
 
 ```
 Thakshaka Rathnayake 
