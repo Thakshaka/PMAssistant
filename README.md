@@ -3,7 +3,7 @@ Bot to manage your PMs as a personal assistant
 ### ⚜️ WHAT CAN THIS BOT DO
 Is it a nuisance to receive messages from strangers? PM Assistant Bot is for you. 
 This bot will help you to manage all your PMs and keep clean your chat list.
-### DEPLOY TO HEROKU
+### ⬆️DEPLOY TO HEROKU
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Thakshaka/PMAssistantTeLeTiPs)
 
