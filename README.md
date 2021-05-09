@@ -9,12 +9,13 @@ This bot will help you to manage all your PMs and keep clean your chat list.
 
 ### ⚜️ USAGE
 
+```
 - Strangers can send anything (media, text messages) as usual to you via this bot.
 - Bot will send them to you.
 - You can reply to any message via bot if desired.
 - Bot will send your reply to stranger. See how easy and safe it is.
 - Send  ```/info``` as a reply to any message you received from a stranger to get his or her details.
-
+```
 
 ### ⚜️ Command  List 
 
