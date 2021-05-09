@@ -25,11 +25,15 @@ This bot will help you to manage all your PMs and keep clean your chat list.
 🕹 Admin Commmands
 /info - Get details about stranger user
 
+```
+
+### ⚜️ Owner
 
 ```
-### ⚜️ Owner
 Thakshaka Rathnayake 
  
 ©️2021 TeLe TiPs All Rights Reserved
  
 Powered by #AAQ
+
+```
