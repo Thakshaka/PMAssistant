@@ -24,7 +24,7 @@ This bot will help you to manage all your PMs and keep clean your chat list.
 /start or /help
 
 🕹 Admin Commmands
-/info - Get details about stranger user
+/info - Get details about stranger
 ```
 
 ### ⚜️ OWNER
